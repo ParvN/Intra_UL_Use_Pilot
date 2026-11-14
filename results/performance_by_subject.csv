@@ -1,0 +1,22 @@
+strategy,subject,sensitivity,specificity,youden_index,functional_percent
+Continuous within-task,1,0.999,0.849,0.848,83.367
+Continuous within-task,2,0.995,0.809,0.803,88.867
+Continuous within-task,4,0.999,0.946,0.945,80.895
+Continuous within-task,7,0.999,0.956,0.955,93.639
+Continuous within-task,8,0.994,0.909,0.903,84.139
+Continuous within-task,9,0.996,0.84,0.836,92.308
+Continuous within-task,10,0.981,0.799,0.78,81.25
+Leave-one-task-out,1,0.975,0.825,0.8,83.367
+Leave-one-task-out,2,0.986,0.678,0.664,88.867
+Leave-one-task-out,4,0.999,0.927,0.926,80.895
+Leave-one-task-out,7,0.999,0.324,0.323,93.639
+Leave-one-task-out,8,0.93,0.727,0.658,84.139
+Leave-one-task-out,9,0.995,0.468,0.463,92.308
+Leave-one-task-out,10,0.992,0.5,0.492,81.25
+Random window-level,1,0.999,0.932,0.931,83.367
+Random window-level,2,0.996,0.799,0.795,88.867
+Random window-level,4,0.999,0.95,0.949,80.895
+Random window-level,7,0.998,0.944,0.942,93.639
+Random window-level,8,0.996,0.914,0.911,84.139
+Random window-level,9,0.996,0.868,0.864,92.308
+Random window-level,10,0.993,0.808,0.801,81.25

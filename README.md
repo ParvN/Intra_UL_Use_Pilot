@@ -21,5 +21,5 @@ pip install -r requirements.txt
 ### How to run
 
 The notebook uses relative paths (`../data/right.csv` and `../results/`), so it
-must be run from inside the `Code/` folder or open the notebook in Jupyter and select *Restart Kernel and Run All Cells*. Results are deterministic (fixed seed 42).
+must be run from inside the `code/` folder or open the notebook in Jupyter and select *Restart Kernel and Run All Cells*. Results are deterministic (fixed seed 42).
 
