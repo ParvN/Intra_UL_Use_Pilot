@@ -13,12 +13,5 @@ pip install -r requirements.txt
 ### How to run
 
 The notebook uses relative paths (`../data/right.csv` and `../results/`), so it
-must be run from inside the `Code/` folder.
-
-```
-cd Code
-jupyter nbconvert --to notebook --execute intra_subject_random_forest_splits.ipynb
-```
-
-or open the notebook in Jupyter and select *Restart Kernel and Run All Cells*. Results are deterministic (fixed seed 42).
+must be run from inside the `Code/` folder or open the notebook in Jupyter and select *Restart Kernel and Run All Cells*. Results are deterministic (fixed seed 42).
 
