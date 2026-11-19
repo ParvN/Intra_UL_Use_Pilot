@@ -1,0 +1,4 @@
+comparison,median_diff,iqr_low,iqr_high,W,p,p_bonferroni
+Random window-level vs Contiguous block,0.008,-0.002,0.025,7.0,0.297,0.891
+Random window-level vs Leave-one-task-out,0.253,0.131,0.355,0.0,0.016,0.047
+Contiguous block vs Leave-one-task-out,0.245,0.094,0.33,0.0,0.016,0.047

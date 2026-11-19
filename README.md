@@ -1,7 +1,7 @@
 ### Intra-subject random forest for UL use detection
 
 Code to reproduce the results comparing three cross-validation strategies
-(random window-level, continuous within-task, leave-one-task-out) for
+(random window-level, contiguous block, leave-one-task-out) for
 detecting UL use. Data is from a previous pilot study dataset. 
 
 ### Data
