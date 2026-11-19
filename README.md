@@ -14,6 +14,8 @@ Download it into `data/` before running the notebook.
 
 ### Environment
 
+Tested with Python 3.12.
+
 ```
 pip install -r requirements.txt
 ```
